@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I am Sherif
 
-<!--
-**Sherif-Shawky/Sherif-Shawky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-sherifshawky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sherifshawky/)](https://www.linkedin.com/in/sherifshawky/)
 
-Here are some ideas to get you started:
+Hey, I’m Sherif Shawky — a Technical Support Engineer @[Alamar](https://alamar.com), graduated from [New Cairo Academy](https://www.cis.edu.eg/) passionate about POS systems, SQL, AWS, and solving complex technical issues. Always eager to learn new technologies, improve my skills, and explore new ideas in Cloud Computing and system operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KareemMAX&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KareemMAX&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&size_weight=0.5&count_weight=0.5" />
+</a>
+
+## 🌱 I’m currently interested/learning in
+
+- Cloud
+- Azure Administrator [AZ-104]
+- Azure Fundamintals [AZ-900]
+
+### 🎓 University projects
+
+#### Web Application
+
+- [University Student Portal](https://github.com/Sherif-Shawky/University)
+
