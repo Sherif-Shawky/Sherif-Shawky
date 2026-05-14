@@ -15,12 +15,12 @@ Hey, I’m Sherif Shawky — a Technical Support Engineer @[Alamar](https://alam
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![POS Systems Pulse](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Technical Troubleshooting](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Networking Basics](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Database Management](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
-![Remote Support](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![POS Systems](https://img.shields.io/badge/POS%20Systems-00599C?style=for-the-badge&logo=databricks&logoColor=white)
+![Technical Troubleshooting](https://img.shields.io/badge/Technical%20Troubleshooting-4CAF50?style=for-the-badge&logo=probot&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-FF6F00?style=for-the-badge&logo=cisco&logoColor=white)
+![Database Management](https://img.shields.io/badge/Database%20Management-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Remote Support](https://img.shields.io/badge/Remote%20Support-673AB7?style=for-the-badge&logo=teamviewer&logoColor=white)
 
 ## 🛠️ Tech Stack
 
