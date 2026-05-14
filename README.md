@@ -16,7 +16,9 @@ Hey, I’m Sherif Shawky — a Technical Support Engineer @[Alamar](https://alam
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 - POS Systems & Pulse
-- ![POS Systems & Pulse](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FPOS%20Systems%20%26%20Pulse-blue)
+![POS Systems & Pulse](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FPOS%20Systems%20%26%20Pulse-blue)
+![POS Systems & Pulse](https://img.shields.io/badge/%20https%3A%2F%2Fimg.shields.io%2Fbadge%2FPOS-brightgreen%3Fstyle%3Dfor-the-badge)
+
 
 ![Technical Troubleshooting](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
