@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-sherifshawky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sherifshawky/)](https://www.linkedin.com/in/sherifshawky/)
 
-Hey, I’m Sherif Shawky — a Technical Support Engineer @[Alamar](https://alamar.com), graduated from [New Cairo Academy](https://www.cis.edu.eg/) passionate about POS systems, SQL, AWS, and solving complex technical issues. Always eager to learn new technologies, improve my skills, and explore new ideas in Cloud Computing and system operations.
+Hey, I’m Sherif Shawky — a Technical Support Engineer @[Alamar](https://www.alamar.com/), graduated from [New Cairo Academy](https://www.cis.edu.eg/) passionate about POS systems, SQL, AWS, and solving complex technical issues. Always eager to learn new technologies, improve my skills, and explore new ideas in Cloud Computing and system operations.
 
 ## 🌱 I’m currently interested/learning in
 
