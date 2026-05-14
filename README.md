@@ -8,7 +8,26 @@ Hey, I’m Sherif Shawky — a Technical Support Engineer @[Alamar](https://alam
 
 - Cloud
 - Azure Administrator [AZ-104]
-- Azure Fundamintals [AZ-900]
+- Azure Fundamentals [AZ-900]
+
+
+## 🛠️ Technical Skills
+
+- SQL Server
+- AWS Cloud
+- POS Systems & Pulse
+- Technical Troubleshooting
+- Windows Server
+- Networking Basics
+- Database Management
+- Remote Support
+
+## 🛠️ Tech Stack
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🎓 University projects
 
