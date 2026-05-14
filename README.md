@@ -22,7 +22,8 @@ Hey, I’m Sherif Shawky — a Technical Support Engineer @[Alamar](https://www.
 ![Database Management](https://img.shields.io/badge/📊_Database_Management-CC2927?style=for-the-badge)
 ![Remote Support](https://img.shields.io/badge/🧑‍💻_Remote_Support-673AB7?style=for-the-badge)
 
-## 🛠️ Tech Stack
+## 📫 Connect with me
+LinkedIn: [Sherif Shawky](https://www.linkedin.com/in/sherifshawky/)
 
 
 
